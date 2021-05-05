@@ -1,7 +1,16 @@
-### Hi there 👋
+### HI I'AM ABDERAHMAN👋
 
-<!--
-**zahmidi1/zahmidi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+  <center>
+    <img src="https://images.unsplash.com/photo-1604537529428-15bcbeecfe4d?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1949&q=80" alt="">
+  
+<h3>I am an award winning web developer and UI / UX javascript specialist.</h3>
+<p>   
+  Check out my articles, React Native UI Components at the Code Lab. <br>
+  Feel free to take a look at my latest projects on the web project page. available remotely.
+  <br> abderahman.zahmidi.solicode@gmail.com</p>
+
+</center>
 
 Here are some ideas to get you started:
 
