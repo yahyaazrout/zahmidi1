@@ -52,7 +52,7 @@ JSON          ████████████░░░░░░░░░░
 <img alt="GIF" src="https://camo.githubusercontent.com/9ad8cfe3215fff758ea74784f86ef0de25b6acfbd6a4fab19d9a13ff47b05843/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f696d6167652f75706c6f61642f76313539343930383234322f6c6f676f5f636373776d652e737667" width="100" height="100" />
 
 <p />
-<br/>
+
 
 
 
@@ -66,6 +66,7 @@ JSON          ████████████░░░░░░░░░░
 
 
 <!-- TODO-IST:END -->
+<br/>
 <p align="center">
 <img alt="GIF" src="https://camo.githubusercontent.com/9ad8cfe3215fff758ea74784f86ef0de25b6acfbd6a4fab19d9a13ff47b05843/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f696d6167652f75706c6f61642f76313539343930383234322f6c6f676f5f636373776d652e737667" width="100" height="100" />
 
