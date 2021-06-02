@@ -60,7 +60,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 📈 **My GitHub Language Stats**
 
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zahmidi1&langs_count=5&theme=tokyonight)
- <img align="right" alt="GIF" src="https://github.com/zahmidi1/zahmidi1/blob/main/alphatestersanimation2.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/zahmidi1/zahmidi1/blob/main/responsive-animate-2017.gif" width="500" height="320" />
 
 <!-- TODO-IST:END -->
 
