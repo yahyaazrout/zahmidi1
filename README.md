@@ -1,6 +1,6 @@
 <h1 align="center">### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm Abderahman </h1>
 
-  
+  ![](https://visitor-badge.glitch.me/badge?page_id=TAWFIQ03.TAWFIQ03)
 <p align="center">
     <a href="https://twitter.com/abderahmanzahmi"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/abderahman-zahmidi-1ab641207/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
@@ -18,8 +18,8 @@ I'm a software developer who is passionate about creating technology to elevate 
 
 <br />
 
+ <img align="right" alt="GIF" src="https://github.com/zahmidi1/zahmidi1/blob/main/responsive-animate-2017.gif" width="500" height="320" />
 
-  <img align="right" alt="GIF" src="https://github.com/zahmidi1/zahmidi1/blob/main/alphatestersanimation2.gif" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me:[zahmidi](https://www.linkedin.com/in/abderahman-zahmidi-1ab641207);
@@ -68,5 +68,6 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 📈 My GitHub Stats
 
 ![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=zahmidi1&count_private=true&theme=tokyonight&showicons=true)<br />
- <img align="right" alt="GIF" src="https://github.com/zahmidi1/zahmidi1/blob/main/responsive-animate-2017.gif" width="500" height="320" />
+
+   <img align="right" alt="GIF" src="https://github.com/zahmidi1/zahmidi1/blob/main/alphatestersanimation2.gif" width="500" height="320" />
 
