@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/abderahman-zahmidi-1ab641207/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
     <a href="https://www.instagram.com/zahmidi/?hl=fr"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
-      <a href="/"><img src="https://img.shields.io/badge/discord-%7289d9?style=flat&logo=discord&logoColor=white"/></a>
+      <a href="/"><img src="https://img.shields.io/badge/discord-%7289D9?style=flat&logo=discord&logoColor=white"/></a>
 
   </p>
   
