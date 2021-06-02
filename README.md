@@ -11,8 +11,7 @@
 
   </p>
 
- ![Glitch Badge](https://badge.glitch.me/trello-shopping-list)
- 
+
 
 I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native.
 
@@ -58,15 +57,13 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 🚧 **My Todoist Stats:**
 
 <!-- TODO-IST:START -->
+📈 **My GitHub Language Stats**
 
-🏆 50 Karma Points  
-🌸 Completed 0 tasks today  
-✅ Completed 8 tasks so far  
-⏳ Longest streak is 20 days
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zahmidi1&langs_count=5&theme=tokyonight)
 
 <!-- TODO-IST:END -->
 
 📈 My GitHub Stats
 
 ![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=zahmidi1&count_private=true&theme=tokyonight&showicons=true)<br />
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zahmidi1&langs_count=5&theme=tokyonight)
+
