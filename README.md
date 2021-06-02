@@ -9,9 +9,10 @@
   <img align="left" alt="tawfiq's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
   </p>
-  ![](https://visitor-badge.glitch.me/badge?page_id=zahmidi1.zahmidi1)
   
-  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=zahmidi1)
+  
+ 
 
 I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native.
 
