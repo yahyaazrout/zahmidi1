@@ -10,7 +10,7 @@
   
 
   </p>
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=zahmidi1)
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zahmidi1.zahmidi1)
  
  
 
@@ -68,5 +68,5 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 My GitHub Stats
 
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=zahmidi1&count_private=true&theme=tokyonight&showicons=true)
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=zahmidi1&count_private=true&theme=tokyonight&showicons=true)<br />
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zahmidi1&langs_count=5&theme=tokyonight)
