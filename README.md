@@ -1,5 +1,5 @@
 <h1 align="center">### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi I'm Abderahman </h1>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zahmidi1)
+
   
 <p align="center">
     <a href="https://twitter.com/abderahmanzahmi"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
@@ -10,7 +10,7 @@
   
 
   </p>
-  
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=zahmidi1)
  
  
 
@@ -68,4 +68,5 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/?username=zahmidi1&show_icons=true&theme=radical" alt="abhisheknaiidu" />
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=zahmidi1)](https://github.com/zahmidi1/github-readme-stats)
+
