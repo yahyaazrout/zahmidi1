@@ -19,7 +19,7 @@ I'm a software developer who is passionate about creating technology to elevate 
 <br />
 
 
-  <img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4774578-Programmers&psig=AOvVaw31Ey4Xsnsmn0mT7hNW_Zw-&ust=1622740642463000&source=images&cd=vfe&ved=0CAIQjRxqGAoTCOCE1JO6-fACFQAAAAAdAAAAABDnAQ" width="500" height="320" />
+  <img align="right" alt="GIF" src="" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me:[zahmidi](https://www.linkedin.com/in/abderahman-zahmidi-1ab641207);
@@ -37,7 +37,6 @@ I'm a software developer who is passionate about creating technology to elevate 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/React-Native/React-Native.png"></code>
 
 📊 **This Week I Spent My Time On:**
 
