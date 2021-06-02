@@ -4,7 +4,7 @@
 <p align="center">
     <a href="https://twitter.com/abderahmanzahmi"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/abderahman-zahmidi-1ab641207/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+    <a href="https://www.youtube.com/watch?v=8NKw0kBkN5E&t=236s"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
     <a href="https://www.instagram.com/zahmidi/?hl=fr"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
       <a href="/"><img src="https://img.shields.io/badge/discord-%7289D9?style=flat&logo=discord&logoColor=white"/></a>
   
@@ -22,7 +22,7 @@ I'm a software developer who is passionate about creating technology to elevate 
 
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me:[zahmidi](https://www.linkedin.com/in/abderahman-zahmidi-1ab641207);
+- 📫 How to reach me:[abderahman zahmidi](https://www.instagram.com/zahmidi/?hl=fr);
 - 📝 [Resume](https://drive.google.com/)
 
 **Languages and Tools:**
@@ -44,7 +44,7 @@ I'm a software developer who is passionate about creating technology to elevate 
 
 ```text
 JSX          16 hrs 02 mins   ██████████████████████░░░   88.08 %
-JavaScript   3 hr 53 mins     ██████████████░░░░░░░░░░░   51.41 %
+JavaScript   3 hr 53 mins     ██████████░░░░░░░░░░░░░░░   51.41 %
 JSON         1 hr 05 mins     ████████████░░░░░░░░░░░░░   40.46 %
 ```
 
@@ -67,7 +67,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 My GitHub Stats
 
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=zahmidi1&count_private=true&theme=tokyonight&showicons=true)<br />
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=zahmidi1&count_private=true&theme=tokyonight&showicons=true)
 
    <img align="right" alt="GIF" src="https://github.com/zahmidi1/zahmidi1/blob/main/alphatestersanimation2.gif" width="500" height="320" />
 
