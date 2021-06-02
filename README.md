@@ -68,7 +68,5 @@ JSON         1 hr 05 mins     ████████████░░░░�
 <img align="right" alt="GIF" src="https://github.com/zahmidi1/zahmidi1/blob/main/alphatestersanimation2.gif" width="470" height="320" />
 <!--END_SECTION:waka-->
 
-**If you like what I do, maybe consider buying me a coffee/tea**🥺👉👈
 
-<a href="https://paypal.me/zahmidi2?locale.x=fr_XC" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
