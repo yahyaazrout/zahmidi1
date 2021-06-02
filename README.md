@@ -68,5 +68,5 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 My GitHub Stats
 
-[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=zahmidi1)](https://github.com/zahmidi1/github-readme-stats)
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=zahmidi1&count_private=true&theme=tokyonight&showicons=true)]
 
