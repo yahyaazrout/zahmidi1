@@ -48,7 +48,7 @@ JSX          16 hrs 02 mins   ████████████████�
 JavaScript   3 hr 53 mins     ██████████████░░░░░░░░░░░   51.41 %
 JSON         1 hr 05 mins     ████████████░░░░░░░░░░░░░   40.46 %
 ```
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zahmidi1&langs_count=5&theme=tokyonight)]()
+
 <!--END_SECTION:waka-->
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
@@ -69,4 +69,4 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 📈 My GitHub Stats
 
 ![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=zahmidi1&count_private=true&theme=tokyonight&showicons=true)
-
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zahmidi1&langs_count=5&theme=tokyonight)
