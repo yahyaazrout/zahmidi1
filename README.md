@@ -43,9 +43,9 @@ I'm a software developer who is passionate about creating technology to elevate 
 <!--START_SECTION:waka-->
 
 ```text
-JSX          16 hrs 02 mins   ██████████████████████░░░   88.08 %
-JavaScript   3 hr 53 mins     ██████████░░░░░░░░░░░░░░░   51.41 %
-JSON         1 hr 05 mins     ████████████░░░░░░░░░░░░░   40.46 %
+JSX           ██████████████████████░░░   88.08 %
+JavaScript    ██████████░░░░░░░░░░░░░░░   51.41 %
+JSON          ████████████░░░░░░░░░░░░░   40.46 %
 ```
 
 
