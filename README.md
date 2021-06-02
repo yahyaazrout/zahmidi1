@@ -1,15 +1,17 @@
-<h1 align="center">### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi I'm Abderahman</h1>
+<h1 align="center">### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi I'm Abderahman </h1>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=zahmidi1)
+  
 <p align="center">
     <a href="https://twitter.com/abderahmanzahmi"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/abderahman-zahmidi-1ab641207/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
     <a href="https://www.instagram.com/zahmidi/?hl=fr"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
       <a href="/"><img src="https://img.shields.io/badge/discord-%7289D9?style=flat&logo=discord&logoColor=white"/></a>
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=zahmidi1)
+  
+
   </p>
   
  
-  
  
 
 I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native.
@@ -21,7 +23,7 @@ I'm a software developer who is passionate about creating technology to elevate 
   <img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4774578-Programmers&psig=AOvVaw31Ey4Xsnsmn0mT7hNW_Zw-&ust=1622740642463000&source=images&cd=vfe&ved=0CAIQjRxqGAoTCOCE1JO6-fACFQAAAAAdAAAAABDnAQ" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [abderahman zahmidi](https://www.linkedin.com/in/abderahman-zahmidi-1ab641207);
+- 📫 How to reach me:[zahmidi](https://www.linkedin.com/in/abderahman-zahmidi-1ab641207);
 - 📝 [Resume](https://drive.google.com/)
 
 **Languages and Tools:**
