@@ -19,7 +19,7 @@ I'm a software developer who is passionate about creating technology to elevate 
 <br />
 
 
-  <img align="right" alt="GIF" src="" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/zahmidi1/zahmidi1/blob/main/code.gif" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me:[zahmidi](https://www.linkedin.com/in/abderahman-zahmidi-1ab641207);
