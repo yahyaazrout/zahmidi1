@@ -4,10 +4,8 @@
     <a href="https://www.linkedin.com/in/abderahman-zahmidi-1ab641207/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
     <a href="https://www.instagram.com/zahmidi/?hl=fr"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
-    
-<a href="https://discord.gg/Tawfiq#5779">
-  <img align="left" alt="tawfiq's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
+      <a href="/"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/></a>
+
   </p>
   
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=zahmidi1)
