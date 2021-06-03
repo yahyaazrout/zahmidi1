@@ -75,7 +75,7 @@ JSON          ████████████░░░░░░░░░░
 
 ![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=zahmidi1&count_private=true&theme=tokyonight&showicons=true)
 
-<p align="">
+<p align="center">
 If you like what I do, maybe consider buying me a coffee 🥺👉👈
   <br /><br />
 <a href="https://paypal.me/zahmidi2?locale.x=fr_XC" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
