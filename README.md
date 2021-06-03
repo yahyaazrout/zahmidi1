@@ -62,7 +62,7 @@ JSON          ████████████░░░░░░░░░░
 📈 **My GitHub Language Stats**
 
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zahmidi1&langs_count=5&theme=tokyonight)
- <img align="right" alt="GIF" src="https://github.com/zahmidi1/zahmidi1/blob/main/alphatestersanimation2.gif" width="500" height="300" />
+ <img align="right" alt="GIF" src="https://github.com/zahmidi1/zahmidi1/blob/main/alphatestersanimation2.gif" width="600" height="300" />
 
 
 <!-- TODO-IST:END -->
