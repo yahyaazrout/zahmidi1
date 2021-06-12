@@ -23,7 +23,7 @@ I'm a software developer who is passionate about creating technology to elevate 
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me:[abderahman zahmidi](https://www.instagram.com/zahmidi/?hl=fr);
-- 📝 [Resume](https://drive.google.com/)
+- 📝 [Resume](https://drive.google.com/file/d/1OxzjvRXhSEKxW5QsUac0F6j5-N8Hpckv/view?usp=sharing)
 
 **Languages and Tools:**
 
