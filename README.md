@@ -81,14 +81,3 @@ If you like what I do, maybe consider buying me a coffee 🥺👉👈
 <a href="https://paypal.me/zahmidi2?locale.x=fr_XC" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <p />
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9816601309985054"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-6t+ed+2i-1n-4w"
-     data-ad-client="ca-pub-9816601309985054"
-     data-ad-slot="2613425208"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
